@@ -1,0 +1,154 @@
+Minecelic Domain: All organisms in Minecraft
+- Liceritua Kingdom: All biological creatures
+  - Spiniusina Phylum: All creatures with bone systems
+    - Baredare Class: All creatures which do not lay eggs, breathe air, and have two to four limbs
+      - Asymtria Order: Baredare evolved to stand upright with two of their limbs above the others, large heads/brains, and no tails
+        - Aratrycia Family: High fat content in the body, has horns or tusks and thick bones
+          - Peratus Genus: Thick pink skin, highly heat tolerant, aggressive
+            - Swiniun Species: Piglins
+            - Fidelisur Species: Piglin Brutes
+            - Simorti Species: Zombified Piglins
+        - Palyere Family: Thin bones, no horns or tusks, has large brains
+          - Lageritus Genus: Long heads, large noses, and short legs
+            - Valitim Species: Villagers
+            - Pirilion Species: Pillager, Vindicator
+            - Magipiracel Species: Witches, Illusioners, Evokers
+          - Uresia Genus: Round heads, same length arms and legs
+            - Prylia Species: Players
+            - Pramortsa Species: Zombies, Husks, Drowneds
+            - Posmorcis Species: Skeletons, Strays, Bogs, Parcheds
+          - Falignia Genus: Tiny bodies, no legs, large skin wings, large heads
+            - Aninian Species: Vexes
+            - Helfinian Species: Allays
+          - Helicius Genus: Tiny bodies, small legs, large skin wings, large heads
+            - Vanapian Species: Bats
+        - Icurenius Family: Thick sodium-containing bones, long multi-limbed shoulders, large brains
+          - Elmenigius Genus: Small bodies in childhood, nonexistent in adulthood, detached limbs, no legs, large heads
+            - Priyoturn Species: Blazes
+            - Erayoturn Species: Breezes
+          - Enederius Genus: Thin and long bodies and limbs, single arm per multi-limb socket
+            - Morbukadin Species: Wither Skeletons
+            - Elobukadin Species: Endermen
+      - Feramian Order: Baredare evolved to stand on all limbs and have smaller heads and/or brains compared to body, large jaws, and tails
+        - Listucit Family: Long necks, furry, and pronounced snouts
+          - Spetidus Genus: Long legs, thin bones, no horns or tusks, and long necks and heads
+            - Hasertu Species: Horses
+            - Lungonin Species: Donkeys
+            - Lungwin Species: Mules
+            - Pasmorcis Species: Skeleton Horses
+            - Posmirka Species: Zombie Horses
+            - Kelamin Species: Camels
+            - Morkimin Species: Husk Camels
+            - Sapitus Species: Llamas
+          - Shegutia Genus: Long hair, thick bodies, short legs, and horns
+            - Sefurti Species: Goats
+            - Flisefurn Species: Sheep
+          - Milackian Genus: Long and thick legs, thick skin, and large bodies
+            - Diyarit Species: Cows
+            - Mysulin Species: Mooshrooms
+          - Brethius Genus: Large heads, thick fur, pronounced claws, and large bodies
+            - Bameshin Species: Pandas
+            - Carostim Species: Polar Bears
+        - Shinalitia Family: Larger head to body ratio, short necks, large amounts of fur
+          - Thalichuse Genus: Large heads, thick bones, and tusks or horns
+            - Harrito Species: Ravagers
+            - Tucketho Species: Hoglins
+            - Tuckmore Species: Zoglins
+            - Fiswinus Species: Pigs
+          - Mawertia Genus: Small heads, short legs, thin bodies, and long tails
+            - Ocelin Species: Ocelots
+            - Hasacin Species: Cats
+          - Hurundis Genus: Small heads, short legs, thick bodies, and thick tails
+            - Seweberin Species: Foxes
+            - Pechwulit Species: Wolves
+          - Caralus Genus: Small thick bodies and large ears
+            - Impocillus Species: Rabbits
+            - Wulitarem Species: Armadillos
+    - Ociatius Class: All creatures which lay eggs
+      - Noramialus Order: Ociatius which can breathe under water, have two frontal fins and a strong tail
+        - Peginisa Family: Plant eating and non-aggressive
+          - Terriut Genus: Have scales, small bodies, and can survive in cold water
+            - Livelodrin Species: Cod
+            - Risatrotan Species: Salmon
+          - Deulnius Genus: Do not have scales, have large bodies and can survive in warm or cold water
+            - Cliankin Species: Dolphins
+          - Warumius Genus: Scaleless and cannot survive in cold water
+            - Waracolia Species: Tropical Fish
+        - Agaresius Family: Aggressive, carnivorous, spiked bodies
+          - Pihesinia Genus: Small inflatable body with venomous spikes
+            - Anirgolan Species: Puffer Fishes
+          - Monician Genus: Large body with retractable sharp spikes and no frontal fins
+            - Bubolian Species: Guardians
+            - Esponian Species: Elder Guardians
+      - Erepitalian Order: Ociatius with four limbs and a head distinct from their body
+        - Eselius Family: Thick skin and low land tolerance 
+          - Enagdrian Genus: Have smooth skin, a long tail, and webbed feet
+            - Perecotes Species: Axolotls
+          - Carusius Genus: Have a thick shell which they can recede into
+            - Diotedin Species: Turtles
+        - Ferinus Family: Thin skin and high land tolerance
+          - Acronius Genus: Has strong back legs for swimming and jumping
+            - Erbitian Species: Frogs
+      - Symspinius Order: Ociatius which have a vertical spine connected at the base to their limbs, a double symmetrical body, and high sulphur and potassium content in blood
+        - Family: Small bodies, large head-to-body ratio
+          - Awamian Genus: Tall bodies, thin skin, high concentrations of nitrogen, phosphorus substances, and sulfates in blood causing them to be able to self-detonate at will
+            - Babuobian Species: Creepers
+          - Hiwaklius Genus: Enormous heads, two long legs, missing knee-joints, almost non-existent body sections, and adapted to extremely hot temperatures
+            - Gianetefian Species: Striders
+      - Aviatus Order: Ociatius with beaks--hard bone-like noses--and a skin covering of feathers
+        - Barucakia Family: Digit-less wings, hollow bone structures adapted to flight, small bodies
+          - Sechius Genus: Small bodies, wings not large enough to sustain flight, non-batch egg-laying
+            - Elegian Species: Chickens
+          - Actifilius Genus: Small bodies compared to wings allowing proficient flight
+            - Copitacin Species: Parrot
+        - Geruluphius Family: Enormous bodies, multi-leg sockets under spine, extremely thick feathers
+          - Beginasius Genus: Hexopods with massive beaks, extremely slow gait
+            - Nawimobian Species: Sniffers
+  - Inspinia Phylum: All boneless creatures
+    - Inecticia Class: All egg-laying creatures with hard outer exoskeletons and multi-limb sockets on their underside
+      - Warispia Order: Inecticia with wings and small legs
+        - Asperius Family: Soft exoskeletons and low-density bodies
+          - Nutocrius Genus: Nocturnal scavengers with sharp fangs, sensitive to sunlight 
+            - Vulmorian Species: Phantoms
+          - Fulawius Genus: Diurnal, social creatures with stingers
+            - Hunayen Species: Bees
+      - Arachin Order: Inecticia with long legs and hard exoskeletons
+        - Arnanius Family: Lives on land and especially in caves, very aggressive
+          - Ephocreto Genus: Large bodies, silk glands
+            - Terravin Species: Cave Spider
+            - Erarivan Species: Spider
+          - Garutibus Genus: Small bodies, can digest different types of stone
+            - Palenita Species: Endermite
+            - Eterinan Species: Silverfish
+    - Gelicius Class: All completely boneless creatures with gel-like, spongy, compressible bodies 
+      - Sequitius Order: Gelicius without shells and with largy homogeneous bodies
+        - Oreginian Family: Has discrete organs and limbs
+          - Wahinemia Genus: Lighter than warm air and can shoot fireballs
+            - Sacrinen Species: Ghast, Happy Ghast
+          - Gewolesius Genus: Near water densities, can survive high pressure, lives in water
+            - Ekulenin Species: Glow Squid
+            - Balindan Species: Squid
+        - Sliamina Family: Is homogeneous and has no limbs or discrete organs
+          - Prigelius Genus: Creatures adapted to extremely hot environments and with a thick glue-like consistency
+            - Sequispin Species: Magma Cubes
+          - Aqrigelus Genus: Creatures adapted to wet and cold environments with a thinner marshmallow consistency 
+            - Sipaltin Species: Slimes
+      - Serehilius Order: Gelicius with shells
+        - Seperilis Family: Spiral-shelled creatures which can recede further into their shell
+          - Nurifian Genus: Underwater creatures with soft flesh and the ability to propel themselves around
+            - Darownian Species: Nautilus
+            - Morawian Species: Zombie Nautilus
+        - Calimia Family: Case-shelled creatures which can move their own shells
+          - Berelapius Genus: Sodium-metabolizing, grey to pink flesh, and the ability to launch partially autonomous orbs as a defence strategy
+            - Enitician Species: Shulker
+- Construbia Kingdom: All non-biological or non-animal animate creatures
+  - Strudinus Group: All mechanical creatures
+    - Aregefeia Baranci: All aggressive constructs
+      - Poreticia Specere: Iron Golems
+      - Hepostius Specere: Snow Golems
+    - Ulicacia Baranci: All intelligent, non-aggressive constructs
+      - Cecuperm Specere: Copper Golems
+  - Plyotian Group: All plant-related creatures
+    - Palentian Baranci: All semi-intelligent plant-like creatures
+      - Sonicardius Specere: Wardens
+      - Nocudoran Specere: Creakings
